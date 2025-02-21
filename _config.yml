@@ -11,11 +11,11 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Likhitha Kolla"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+name                     : &name "Likhitha Kolla"
+description              : &description "MD-PhD Candidate, Biostatistics"
+url                      : https://likhithakolla.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "likhithakolla.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -27,7 +27,7 @@ author:
   pronouns         : "she/her"  
   bio              : "MD-PhD Candidate, Biostatistics"
   location         : "Philadelphia, PA, USA"
-  employer         : "Perelman School of Medicine, University of Pennsylvania"
+  employer         : "University of Pennsylvania"
   uri              : # URL
   email            : "likhitha.kolla@pennmedicine.upenn.edu" 
 
