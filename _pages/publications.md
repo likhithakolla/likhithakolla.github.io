@@ -28,5 +28,5 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## In Progress
 - **Kolla, L.**, … Parikh, RB. Extent and Impact of Performance Drift in a Nationally Deployed Population Health Risk Algorithm in the Veterans Health Administration. In Review
-- Parikh, RB.*, **Kolla, L.**,* …Emanuel, EJ. Human-AI Teaming to Improve Accuracy and Efficiency of Eligibility Criteria Prescreening for Oncology Trials: A Randomized Controlled Trial. In Review *co-first authorship
+- Parikh, RB.+, **Kolla, L.**,+ …Emanuel, EJ. Human-AI Teaming to Improve Accuracy and Efficiency of Eligibility Criteria Prescreening for Oncology Trials: A Randomized Controlled Trial. In Review +co-first authorship
 
