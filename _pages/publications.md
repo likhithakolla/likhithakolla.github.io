@@ -27,6 +27,6 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 - **Kolla, L.**, Parikh, R., Chapter 12- Digital Health in Oncology. Part of The Digital Doctor textbook, Elsevier publishing, pages 167–177. Academic Press. https://doi.org/10.1016/B978-0-443-15728-8.00018-5
 
 ## In Progress
-- **Kolla, L.**, … Parikh, RB. Extent and Impact of Performance Drift in a Nationally Deployed Population Health Risk Algorithm in the Veterans Health Administration. In Review 
-Parikh, RB.*, **Kolla, L.**,* …Emanuel, EJ. Human-AI Teaming to Improve Accuracy and Efficiency of Eligibility Criteria Prescreening for Oncology Trials: A Randomized Controlled Trial. In Review at a biomedical journal *co-first authorship
+- **Kolla, L.**, … Parikh, RB. Extent and Impact of Performance Drift in a Nationally Deployed Population Health Risk Algorithm in the Veterans Health Administration. In Review
+- Parikh, RB.*, **Kolla, L.**,* …Emanuel, EJ. Human-AI Teaming to Improve Accuracy and Efficiency of Eligibility Criteria Prescreening for Oncology Trials: A Randomized Controlled Trial. In Review at a biomedical journal *co-first authorship
 
