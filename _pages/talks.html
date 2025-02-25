@@ -7,27 +7,6 @@ author_profile: true
 
 {% if site.talkmap_link == true %}
 
-<table>
-  <tbody>
-    {% for post in site.talks reversed %}
-      {% if forloop.index0 | modulo:3 == 0 %}
-        <tr>
-      {% endif %}
-
-      <td>
-        {% include archive-single-talk.html post=post %}
-      </td>
-
-      {% if forloop.index0 | modulo:3 == 2 %}
-        </tr>
-      {% endif %}
-    {% endfor %}
-    {% if site.talks | size | modulo:3 != 0 %}
-      </tr>
-    {% endif %}
-  </tbody>
-</table>
-
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 
 {% endif %}
